@@ -3,10 +3,4 @@ FUADY-RESOLUSI-2026
 - Ingin diet sampai 60Kg.
 - Dan saya ingin membahagiakan orang tua.
 - ingin memubat project PHP.
-<<<<<<< HEAD
-Kon
 
-kontollllllll
-=======
-- hello wordl
->>>>>>> 9b3bfc0794f4b9b6871e1c9f9b7776cb3c3d910e
